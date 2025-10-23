@@ -1,10 +1,6 @@
-# hi, this is freewrite
+# OctoWrite
 
-a simple, open-source mac app to freewrite.
-
-download latest version [here](https://www.freewrite.io/)
-
-![img](https://i.imgur.com/2ucbtff.gif)
+The application allows the users write at their freewill
 
 if you wanna make an addition + pr,
 or just wanna remix the app for yourself go for it.
